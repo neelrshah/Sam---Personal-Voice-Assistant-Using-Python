@@ -3,7 +3,13 @@
 A virtual assistant is a software agent that can perform tasks or services for an individual. Virtual Assistant (VA) is a term that applies to computer-simulated
 environments that can simulate physical presence in places in the real world, as well as in imaginary worlds.
 
- 	We have used python and google text to speech API for this project, speech recognition module can be used to recognize the voice of the user, and based on its query will be fired. Initially, the user will give a voice command to the assistant then that voice command is sent to google engine and voice is converted to text, then keywords are extracted from it, then the synonyms are searched for those keywords in Dictionary so that the assistant can understand the user easily. Based on those keywords and synonyms appropriate query is fired and the task is performed then the output is again converted to voice and the user gets a response in the form of voice. Many different modules i.e., web browser, YouTube, Wikipedia, etc. are used to interact with the internet. the os module is used to interact with operating system related queries. For Learning purposes, users can search any information related to a certain topic on Wikipedia, Google, or in text documents.
+	
+
+   We are going to use python and google text to speech API for this project, speech recognition module can be used to recognize the voice of the user, and based on its query 
+will be fired. Initially, the user will give a voice command to the assistant then that voice command is sent to google engine and voice is converted to text, then keywords are 
+extracted from it, then the synonyms are searched for those keywords in Dictionary so that the assistant can understand the user easily. Based on those keywords and synonyms 
+appropriate query is fired and the task is performed then the output is again converted to voice and the user gets a response in the form of voice. Many different modules i.e., 
+web browser, YouTube, Wikipedia, etc. are used to interact with the internet. the os module is used to interact with operating system related queries. For Learning purposes, users can search any information related to a certain topic on Wikipedia, Google, or in text documents.
   
 To gain a deeper knowledge of this topic we have referred to many websites and YouTube videos. These helped us to gain the basic knowledge of the topic. The articles helped us in getting an overview of various technologies that can be used in this project. A computer-primarily based approach for performing a voice command to perform a certain task.
 
