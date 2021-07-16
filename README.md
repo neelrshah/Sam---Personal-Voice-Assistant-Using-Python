@@ -11,6 +11,7 @@ environments that can simulate physical presence in places in the real world, as
 - To understand the context and give the user response accordingly. 
 
 
+### Description
    We are going to use python and google text to speech API for this project, speech recognition module can be used to recognize the voice of the user, and based on its query 
 will be fired. Initially, the user will give a voice command to the assistant then that voice command is sent to google engine and voice is converted to text, then keywords are 
 extracted from it, then the synonyms are searched for those keywords in Dictionary so that the assistant can understand the user easily. Based on those keywords and synonyms 
