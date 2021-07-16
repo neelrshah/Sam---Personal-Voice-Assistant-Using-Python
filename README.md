@@ -4,6 +4,12 @@ A virtual assistant is a software agent that can perform tasks or services for a
 environments that can simulate physical presence in places in the real world, as well as in imaginary worlds.
 
 	
+### Objectives
+- To Create an interface to provide voice instructions.
+- To implement a speech recognition module to convert speech into text.
+- To implement Python Dictionary to find synonyms
+- To understand the context and give the user response accordingly. 
+
 
    We are going to use python and google text to speech API for this project, speech recognition module can be used to recognize the voice of the user, and based on its query 
 will be fired. Initially, the user will give a voice command to the assistant then that voice command is sent to google engine and voice is converted to text, then keywords are 
