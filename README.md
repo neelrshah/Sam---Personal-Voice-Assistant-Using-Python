@@ -10,6 +10,20 @@ environments that can simulate physical presence in places in the real world, as
 - To implement Python Dictionary to find synonyms
 - To understand the context and give the user response accordingly. 
 
+### Features
+- Get current date & time.
+- Interact with Google Search , Wikipedia & YouTube (Play videos or songs).
+- Shutdown, logout and Restart PC.
+- Open photos, videos, documents & downloads.
+- Take Screenshot.
+- Get CPU, Ram & Battery usage.
+- Get Jokes.
+- Search online and get related information which user is searching for.
+- Interacting with OS using voice commands.
+- Perform Mathematical calculation and solving equations using voice command.
+- Get local and Global news.
+- Get weather information.
+
 
 ### Description
    We are going to use python and google text to speech API for this project, speech recognition module can be used to recognize the voice of the user, and based on its query 
