@@ -10,8 +10,8 @@ environments that can simulate physical presence in places in the real world, as
 - To implement Python Dictionary to find synonyms
 - To understand the context and give the user response accordingly. 
 
-<img src = "https://github.com/neelrshah/Sam---Personal-Voice-Assistant-Using-Python/blob/main/methodology.png">
-<br>
+![Screenshot](methodology.png)
+
 ### Features
 - Get current date & time.
 - Interact with Google Search , Wikipedia & YouTube (Play videos or songs).
